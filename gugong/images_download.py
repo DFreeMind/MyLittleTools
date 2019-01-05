@@ -291,5 +291,6 @@ if __name__ == '__main__':
     #         get_paints_list(start_page=int(args[1]))
     #     else:
     #         get_paints_list(start_page=29)
+
     href = '/collection/paint/228354.html'
     get_paint([('王希孟千里江山图卷', href)])

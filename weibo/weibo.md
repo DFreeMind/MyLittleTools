@@ -21,6 +21,7 @@
 - comments_count: 评论数量
 - attitudes_count: 点赞数量
 
+
 获取微博配的图片，图片在 `pics` 属性中，若是纯文字则没有图片。在最层的 `url` 中存储的是小图片，在 `large` 中存贮的是大图。
 
 获取微博配的视频，视频在 `page_info` 中，之后在找到 `media_info` 里面的 `stream_url` 就是视频的地址。

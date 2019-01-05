@@ -108,7 +108,7 @@ def get_mblog(uid, filepath, imagepath, weibo_log):
 
 
 if __name__ == '__main__':
-    # 获取谢娜微博数据
+    # 获取谢娜微博数据 信息
     weibo_data = "/Users/weduoo/Desktop/weibo/xiena.csv"
     image_path = "/Users/weduoo/Desktop/weibo/xiena/"
     weibo_logs = "/Users/weduoo/Desktop/weibo/xiena_complete.txt"
