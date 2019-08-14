@@ -2,16 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce79ea5-2dce-456b-b5de-de99a0465784" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zimu/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/parse_srt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/done_files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/done_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/no_explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/record/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 001 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 002 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 003 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 004 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 005 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 006 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 007 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 008 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 009 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 010 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 011 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 012 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 013 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 014 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 015 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 016 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 017 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 018 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 019 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 020 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 021 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 022 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 023 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 024 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 025 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 026-027 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 028 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 029 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 030 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 031 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 032 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 033 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 034 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 035 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 036 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 037 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 038 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 039 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 040 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 041 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 042 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 043 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 044 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 045 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 046 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 047 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 048 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 049 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 050 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 051 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 052 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 053 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 054 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 055 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 056 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 057 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 058 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 059 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 060 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 061 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 062 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 063 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 064 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 065 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 066-067 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 068 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 069 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 070 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 071 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 072 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 073 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 074 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 075 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 076 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 077 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 078 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 079 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 080 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 081 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 082 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 083 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 084 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 085 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 086 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 087 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 088 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 089 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 090 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 091 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 092 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 093 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 094 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 095-096 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 097 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 098 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 099 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 100 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 101 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 102 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 103 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 104 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 105 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 106 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 107 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 108 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 109 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 110-111 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 112 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 113 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 114 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 115 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 116-117 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 118 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 119 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 120 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 121 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 122 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 123 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 124 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 125 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 126 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 127 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 128 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 129 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 130 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 131 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 132 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 133 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 134 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 135 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 136 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 137 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 138 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 139 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 140 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 141 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 142 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 143 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 144 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 145 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 146 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 147 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 148 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 149 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 150 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 151 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 152 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 153 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 154 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 155 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 156 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 157 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 158 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 159 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 160 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 161 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 162 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 163 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 164 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 165 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 166 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 167 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 168 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 169 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 170 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 171 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 172 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 173 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 174 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 175 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 176 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 177 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 178 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 179 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 180 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 181 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 182 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 183 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 184 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 185 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 186 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 187 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 188 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 189 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 190 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 191 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 192 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 193 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 194 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 195 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 196 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 197 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 198 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 199 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 200 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 201 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 202 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 203 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 204 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 205 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 206 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 207 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 208 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 209 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 210 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 211 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 212 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 213 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 214 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 215 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 216 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 217 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 218 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 219 English.srt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/srt/Naruto 220 English.srt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gugong/gugong.html" beforeDir="false" afterPath="$PROJECT_DIR$/gugong/gugong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gugong/gugong.md" beforeDir="false" afterPath="$PROJECT_DIR$/gugong/gugong.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gugong/images_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/gugong/images_download.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gugong/remove_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/gugong/remove_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/weibo.md" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/weibo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/weibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/weibo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youku/youku.md" beforeDir="false" afterPath="$PROJECT_DIR$/youku/youku.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youku/youku.py" beforeDir="false" afterPath="$PROJECT_DIR$/youku/youku.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,113 +239,6 @@
     <SUITE FILE_PATH="coverage/MyLittleTools$remove_files.coverage" NAME="remove_files Coverage Results" MODIFIED="1538550041620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gugong" />
     <SUITE FILE_PATH="coverage/MyLittleTools$images_download.coverage" NAME="images_download Coverage Results" MODIFIED="1539517386986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gugong" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gugong/images_download.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="976">
-              <caret line="293" selection-start-line="293" selection-end-line="293" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1546688719663" expanded="true" signature="3530:5283" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gugong/gugong.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gugong/gugong.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1013">
-              <caret line="3762" lean-forward="true" selection-start-line="3762" selection-end-line="3762" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gugong/remove_files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1546688742999" expanded="true" signature="125:130" ph="..." />
-                <marker date="1546688742999" expanded="true" signature="412:1293" ph="..." />
-                <marker date="1546688742999" expanded="true" signature="667:1293" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youku/youku.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="765">
-                <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youku/youku.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/weibo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="911">
-              <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weibo/weibo.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -138,35 +247,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>table1</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/gugong/images_download.py" />
-        <option value="$PROJECT_DIR$/gugong/gugong.md" />
-        <option value="$PROJECT_DIR$/gugong/gugong.html" />
-        <option value="$PROJECT_DIR$/gugong/remove_files.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/youku/youku.md" />
-        <option value="$PROJECT_DIR$/youku/youku.py" />
-        <option value="$PROJECT_DIR$/weibo/weibo.py" />
-        <option value="$PROJECT_DIR$/weibo/weibo.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1139" />
-    <option name="y" value="48" />
-    <option name="width" value="1293" />
-    <option name="height" value="1251" />
-  </component>
+  <component name="ProjectId" id="1PJVD71bCWNergkDlpnIV1Q82Uw" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -184,43 +268,23 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MyLittleTools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLittleTools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLittleTools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLittleTools" type="462c0819:PsiDirectoryNode" />
-              <item name="gugong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLittleTools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLittleTools" type="462c0819:PsiDirectoryNode" />
-              <item name="weibo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zimu/srt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\MyLittleTools\zimu\srt" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.images_download">
+  <component name="RunManager" selected="Python.parse_srt">
     <configuration name="images_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLittleTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,6 +313,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gugong/images_download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_srt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLittleTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/parse_srt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,9 +368,11 @@
     <list>
       <item itemvalue="Python.images_download" />
       <item itemvalue="Python.remove_files" />
+      <item itemvalue="Python.parse_srt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.parse_srt" />
         <item itemvalue="Python.images_download" />
         <item itemvalue="Python.remove_files" />
       </list>
@@ -303,137 +391,34 @@
       <workItem from="1545640733618" duration="488000" />
       <workItem from="1545817324287" duration="14000" />
       <workItem from="1546688401779" duration="406000" />
+      <workItem from="1565592090307" duration="35000" />
+      <workItem from="1565592144972" duration="13023000" />
+      <workItem from="1565612558024" duration="9459000" />
+      <workItem from="1565671354837" duration="9916000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="908000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1139" y="48" width="1293" height="1251" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21822542" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27868852" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994823" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file:///anaconda3/envs/py36/lib/python3.6/site-packages/PIL/Image.py" />
-    <entry file="file:///anaconda3/envs/py36/lib/python3.6/site-packages/requests/adapters.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gugong/images_download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="976">
-          <caret line="293" selection-start-line="293" selection-end-line="293" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1546688719663" expanded="true" signature="3530:5283" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gugong/gugong.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gugong/gugong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1013">
-          <caret line="3762" lean-forward="true" selection-start-line="3762" selection-end-line="3762" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gugong/remove_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1546688742999" expanded="true" signature="125:130" ph="..." />
-            <marker date="1546688742999" expanded="true" signature="412:1293" ph="..." />
-            <marker date="1546688742999" expanded="true" signature="667:1293" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youku/youku.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youku/youku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/weibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="911">
-          <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/weibo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyLittleTools$parse_srt.coverage" NAME="parse_srt Coverage Results" MODIFIED="1565745636448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu" />
   </component>
   <component name="masterDetails">
     <states>
