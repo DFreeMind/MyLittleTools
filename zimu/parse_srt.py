@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import io
 import sys
@@ -49,7 +51,8 @@ def parse_file(file):
         elif line.strip():
             # 去除每一行的标点, 并去除开始和结尾空格
             line_no_pun = re.sub(r'[^\w\s]', '', line).strip()
-            # line_no_pun = line.translate(string.punctuation).strip()
+            line_no_pun = line_no_pun.translate(string.punctuation).strip()
+            line_no_pun = re.sub(r'[ã|â|ãª]', "", line_no_pun)
             words = line_no_pun.lower().split()
             # 处理单词列表
             print(words)
@@ -81,7 +84,7 @@ def parse_wrods(words):
         for word in words:
             # 解析没有解析过得单词
             if word not in words_done and word not in parse_done:
-                time.sleep(3)
+                time.sleep(1)
                 phonetics_list, explains_list = get_word(word)
                 if len(explains_list) > 0 and len(phonetics_list) > 0:
                     append_word_explain(word, phonetics_list, explains_list)
@@ -145,3 +148,6 @@ if __name__ == '__main__':
     d = "./srt"
     list_file(d)
     # parse_file("./srt/Naruto 001 English.srt")
+    # s = "Sasukeâ You…"
+    # new = re.sub(r"[â|S]", "", s)
+    # print(new)
