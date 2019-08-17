@@ -175,7 +175,7 @@ def get_wh_size(max_scale, path, dir_name):
             h_size += 1
             with open(filename, 'wb') as file:
                 file.write(image.content)
-        else:
+        else: 
             h_size += 1
     w_size = 0
     while True:
