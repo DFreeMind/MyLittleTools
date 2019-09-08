@@ -28,5 +28,5 @@ if __name__ == '__main__':
     path = input("输入文件/文件夹路径:")
     origin_mark = input("输入需要替换的字符:")
     target_mark = input("输入替换为的字符:")
-    print(path, origin_mark, target_mark)
+    print(path, "|\t", origin_mark, "|\t", target_mark)
     rename(path, origin_mark, target_mark)
